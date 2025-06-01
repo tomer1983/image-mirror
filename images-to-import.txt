@@ -1,0 +1,6 @@
+us-central1-docker.pkg.dev/keephq/keep/keep-api:0.44.13
+#busybox
+#mysql:latest
+us-central1-docker.pkg.dev/keephq/keep/keep-ui:0.44.13
+quay.io/soketi/soketi:1.4-16-debian
+bitnami/kubectl:latest
