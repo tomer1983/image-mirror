@@ -1,7 +1,29 @@
 {
   "name": "image-mirror",
-  "description": "🔄 A powerful Docker image mirroring tool for efficient container registry management. Mirror images between Docker Hub, GCR, ECR, and more with ease.",
+  "description": "🔄 A powerful Docker image mirroring tool for efficient container registry management. Mirror images between Docker Hub, GCR, ECR, and more with ease. Supports batch operations, authentication, and rate limiting.",
   "homepage": "https://github.com/tomer1983/image-mirror",
+  "about": {
+    "short_description": "🐳 Docker image mirroring made easy",
+    "features": [
+      "✨ Support for all major registries (Docker Hub, GCR, ECR)",
+      "📦 Batch image mirroring",
+      "🔐 Secure authentication handling",
+      "⚡ Performance optimized with retry mechanisms",
+      "📊 Detailed logging and monitoring"
+    ],
+    "support_urls": {
+      "documentation": "https://github.com/tomer1983/image-mirror/tree/main/docs",
+      "issues": "https://github.com/tomer1983/image-mirror/issues",
+      "discussions": "https://github.com/tomer1983/image-mirror/discussions"
+    },
+    "status": {
+      "project_status": "Active",
+      "maintenance_status": "Actively Maintained",
+      "version": "1.0.0",
+      "python_version": ">=3.8",
+      "docker_version": ">=20.10.0"
+    }
+  },
   "topics": [
     "docker",
     "container-registry",
