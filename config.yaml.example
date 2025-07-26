@@ -1,0 +1,17 @@
+# Sample configuration file for Image Mirror
+registries:
+  source:
+    url: docker.io
+    username: ${DOCKER_USERNAME}  # Set in .env or environment
+    password: ${DOCKER_PASSWORD}  # Set in .env or environment
+  destination:
+    url: private-registry.com
+    username: ${DEST_USERNAME}  # Set in .env or environment
+    password: ${DEST_PASSWORD}  # Set in .env or environment
+
+# Optional settings
+settings:
+  retry_attempts: 3
+  retry_delay: 5
+  timeout: 300
+  concurrent_transfers: 2
