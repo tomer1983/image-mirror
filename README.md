@@ -1,5 +1,12 @@
 # Image Mirror 🔄
 
+[![CI Status](https://github.com/tomer1983/image-mirror/actions/workflows/ci.yml/badge.svg)](https://github.com/tomer1983/image-mirror/actions)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org)
+[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white)](https://www.docker.com/)
+[![CodeQL](https://github.com/tomer1983/image-mirror/actions/workflows/codeql.yml/badge.svg)](https://github.com/tomer1983/image-mirror/actions/workflows/codeql.yml)
+[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/tomer1983/image-mirror/issues)
+
 ## Overview
 
 **Image Mirror** is a powerful Docker image mirroring tool designed to help you efficiently mirror Docker images between different registries. It's perfect for creating backups, managing private registries, or ensuring image availability across different environments.

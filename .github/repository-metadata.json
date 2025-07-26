@@ -1,0 +1,22 @@
+{
+  "name": "image-mirror",
+  "description": "🔄 A powerful Docker image mirroring tool for efficient container registry management. Mirror images between Docker Hub, GCR, ECR, and more with ease.",
+  "homepage": "https://github.com/tomer1983/image-mirror",
+  "topics": [
+    "docker",
+    "container-registry",
+    "devops",
+    "docker-hub",
+    "gcr",
+    "ecr",
+    "python",
+    "docker-images",
+    "container",
+    "mirroring",
+    "automation",
+    "registry-mirror",
+    "container-management",
+    "docker-registry",
+    "docker-tools"
+  ]
+}
