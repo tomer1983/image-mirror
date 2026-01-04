@@ -1,1 +1,1 @@
-bitnami/kubectl
+bitnami/kubectl:latest
