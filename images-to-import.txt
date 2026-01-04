@@ -1,3 +1,2 @@
 us-central1-docker.pkg.dev/keephq/keep/keep-api:0.45.4
-busybox
 us-central1-docker.pkg.dev/keephq/keep/keep-ui:0.45.4
