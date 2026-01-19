@@ -1,1 +1,1 @@
-bitnami/kubectl:latest
+litellm/litellm:v1.80.15-stable
